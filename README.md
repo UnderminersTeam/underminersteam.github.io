@@ -1,2 +1,3 @@
 # underminersteam.github.io
-Underminers Team Website
+
+Repository hosting the official UndertaleModTool website. 

@@ -1,6 +1,6 @@
 baseURL = "https://underminersteam.github.io/"
 languageCode = 'en-us'
-title = "Underminers Team Website Test"
+title = "UndertaleModTool"
 theme = "hugo-geekdoc"
 
 
@@ -30,6 +30,10 @@ enableRobotsTXT = true
   tag = "tags"
 
 [params]
+  # Common links used across the site.
+  underminersDiscordLink = "https://discord.gg/hnyMDypMbN"
+  utmtGithubLink = "https://github.com/UnderminersTeam/UndertaleModTool"
+
   # (Optional, default 6) Set how many table of contents levels to be showed on page.
   # Use false to hide ToC, note that 0 will default to 6 (https://gohugo.io/functions/default/)
   # You can also specify this parameter per page in front matter.

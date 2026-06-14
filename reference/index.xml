@@ -1,16 +1,16 @@
 <?xml version="1.0" encoding="utf-8" standalone="yes"?>
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
 	<channel>
-		<title>UndertaleModTool</title>
-		<link>https://underminersteam.github.io/</link>
-		<description>Recent content on UndertaleModTool</description>
+		<title>Reference on UndertaleModTool</title>
+		<link>https://underminersteam.github.io/reference/</link>
+		<description>Recent content in Reference on UndertaleModTool</description>
 		<generator>Hugo</generator>
 		<language>en-us</language>
 		
 		
 		
 		
-			<atom:link href="https://underminersteam.github.io/index.xml" rel="self" type="application/rss+xml" />
+			<atom:link href="https://underminersteam.github.io/reference/index.xml" rel="self" type="application/rss+xml" />
 			<item>
 				<title>Undertale and Deltarune versions</title>
 				<link>https://underminersteam.github.io/reference/undertale-deltarune-versions/</link>

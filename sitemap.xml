@@ -2,8 +2,20 @@
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9"
   xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://underminersteam.github.io/project-system/getting-started/</loc>
+    <lastmod>2026-06-29T13:56:29-04:00</lastmod>
+  </url><url>
+    <loc>https://underminersteam.github.io/project-system/main-options-spec/</loc>
+    <lastmod>2026-06-29T13:56:29-04:00</lastmod>
+  </url><url>
+    <loc>https://underminersteam.github.io/project-system/general-info-spec/</loc>
+    <lastmod>2026-06-29T13:56:29-04:00</lastmod>
+  </url><url>
     <loc>https://underminersteam.github.io/usage/getting-started/</loc>
     <lastmod>2026-01-03T14:33:40-05:00</lastmod>
+  </url><url>
+    <loc>https://underminersteam.github.io/project-system/</loc>
+    <lastmod>2026-06-29T13:56:29-04:00</lastmod>
   </url><url>
     <loc>https://underminersteam.github.io/reference/</loc>
     <lastmod>2026-03-15T21:55:53-03:00</lastmod>
@@ -18,5 +30,8 @@
   </url><url>
     <loc>https://underminersteam.github.io/usage/</loc>
     <lastmod>2026-01-03T14:33:40-05:00</lastmod>
+  </url><url>
+    <loc>https://underminersteam.github.io/project-system/what-is-it/</loc>
+    <lastmod>2026-06-29T13:56:29-04:00</lastmod>
   </url>
 </urlset>

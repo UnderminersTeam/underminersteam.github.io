@@ -13,7 +13,7 @@ This provides several benefits:
 - GML code edits can be preserved in plaintext, rather than always being re-decompiled. Comments work! 
 - File corruption isn't quite as disastrous.
 - Modded assets can be edited outside of UndertaleModTool, in JSON format (or image/sound formats).
-- If you're lucky, mods can be compatible across multiple game versions.
+- If you're lucky, mods can be compatible across multiple game versions and can even be combined!
 
 Want to get started? [See the basic setup instructions here](../getting-started/).
 

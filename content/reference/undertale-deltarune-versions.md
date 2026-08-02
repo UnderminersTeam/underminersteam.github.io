@@ -352,7 +352,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>0006c38152ba4a0da9fcca608e85c17f</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>bc43407bb4b1b788807e77d70660a070</code></td>
   </tr>
@@ -393,7 +393,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>e960a2e2ca6bdf735af57fcfdffe4759</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>1b6c94b226c30c410171810c0612539b</code></td>
   </tr>
@@ -415,7 +415,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>61db0705d769b07e46830c35de1d0791</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>46ecf6b3df905dd0c065ca12c5f03952</code></td>
   </tr>
@@ -437,7 +437,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>c68ead9d00808f1782f005ef9c43d3aa</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>dcfca841f5e861f4bcb70a76d53dfcd2</code></td>
   </tr>
@@ -459,7 +459,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>3ab3fd350d72d7a1c8e4f63230fd8c41</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>d34350d9a1e4af8ff811975189e2ed5f</code></td>
   </tr>
@@ -502,7 +502,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>25d9259672615c8ca10916cad92f29fb</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>2cfa99fc6ab6bc26d3c898edf4feaecf</code></td>
   </tr>
@@ -524,7 +524,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>b465a74b67e4ab915856330ad1149a62</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>15a18acd859b3391f65fa1a2c3fcfcac</code></td>
   </tr>
@@ -546,7 +546,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>616c5751ac9fc584af250f1b04474afd</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>49c163fec2b96bbf4bbe3a0f64f9c9f2</code></td>
   </tr>
@@ -568,7 +568,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>5fbe01f2bc1c04f45d809ffd060ac386</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>45a390b89857b37ec74a57d8dfe1b51e</code></td>
   </tr>
@@ -585,7 +585,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>7fa7658151211076fa09be378bd6bd2b</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>d690655274680818a20a9b8ca9063fa0</code></td>
   </tr>
@@ -597,7 +597,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>d64c80f30ec1aa5718307a2c6ea8ddb5</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>9b64c6f635c1c947c2bf41cb0451ae20</code></td>
   </tr>
@@ -609,7 +609,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>8892aca0ece33a17711d7780c70ca3de</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>8da81b7f8181a42000bcdf0a026af8cb</code></td>
   </tr>
@@ -621,7 +621,7 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>ed4568bab864166bfd6322ceeb3fb544</code></td>
   </tr>
   <tr>
-    <td>OSX, Steam</td>
+    <td>macOS, Steam</td>
     <td>-</td>
     <td><code>86f5dc78d9e9529921f4a405232007ed</code></td>
   </tr>
@@ -685,7 +685,7 @@ This page contains information about the data files (data.win, data.unx, data.io
 <tbody>
   <tr>
     <td>v14</td>
-    <td rowspan="5">2025-06-04</td>
+    <td rowspan="10">2025-06-04</td>
     <td rowspan="5">Windows, Steam</td>
     <td>Chapter Select</td>
     <td><code>882fef5d906d641b728668213e2fba8a</code></td>
@@ -712,7 +712,33 @@ This page contains information about the data files (data.win, data.unx, data.io
   </tr>
   <tr>
     <td>v14</td>
-    <td rowspan="5">2025-06-06</td>
+    <td rowspan="5">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>0fcce042e403eca38156ae628a6c80da</code></td>
+  </tr>
+  <tr>
+    <td>1.36</td>
+    <td>Chapter 1</td>
+    <td><code>f2efff489fad874e67d29755ccee3253</code></td>
+  </tr>
+  <tr>
+    <td>1.41</td>
+    <td>Chapter 2</td>
+    <td><code>1a2c01ca10795e2813b54c88581e49c6</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.086</td>
+    <td>Chapter 3</td>
+    <td><code>7e94d1737d5993184c403b4c0126aeea</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.085</td>
+    <td>Chapter 4</td>
+    <td><code>d8f14f3b00a58139105922e91e6be8f2</code></td>
+  </tr>
+  <tr>
+    <td>v14</td>
+    <td rowspan="10">2025-06-06</td>
     <td rowspan="5">Windows, Steam</td>
     <td>Chapter Select</td>
     <td><code>afa1c4d83b6570faaa574254d11cefc6</code></td>
@@ -739,7 +765,33 @@ This page contains information about the data files (data.win, data.unx, data.io
   </tr>
   <tr>
     <td>v14</td>
-    <td rowspan="5">2025-06-08</td>
+    <td rowspan="5">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>8badf63da8c8ef6007e074ad92ce41aa</code></td>
+  </tr>
+  <tr>
+    <td>1.36</td>
+    <td>Chapter 1</td>
+    <td><code>f2efff489fad874e67d29755ccee3253</code></td>
+  </tr>
+  <tr>
+    <td>1.41</td>
+    <td>Chapter 2</td>
+    <td><code>1a2c01ca10795e2813b54c88581e49c6</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.087</td>
+    <td>Chapter 3</td>
+    <td><code>0acacf3662097ed9d3a752f3e6c6bc44</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.086</td>
+    <td>Chapter 4</td>
+    <td><code>c1631593bb18e25bc9e0e08d7da8c748</code></td>
+  </tr>
+  <tr>
+    <td>v14</td>
+    <td rowspan="10">2025-06-08</td>
     <td rowspan="5">Windows, Steam</td>
     <td>Chapter Select</td>
     <td><code>4713153767a8a141c304510178165177</code></td>
@@ -766,7 +818,33 @@ This page contains information about the data files (data.win, data.unx, data.io
   </tr>
   <tr>
     <td>v14</td>
-    <td rowspan="5">2025-06-09</td>
+    <td rowspan="5">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>6fa4830923280585a40dc1c10b605863</code></td>
+  </tr>
+  <tr>
+    <td>1.36</td>
+    <td>Chapter 1</td>
+    <td><code>f2efff489fad874e67d29755ccee3253</code></td>
+  </tr>
+  <tr>
+    <td>1.42</td>
+    <td>Chapter 2</td>
+    <td><code>89997c57ab13322440eaba6a2315d8e8</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.088</td>
+    <td>Chapter 3</td>
+    <td><code>4765840b205435c992d1ccdb039e2f88</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.087</td>
+    <td>Chapter 4</td>
+    <td><code>478feac78a4022cd88dcdc97e0cf0754</code></td>
+  </tr>
+  <tr>
+    <td>v14</td>
+    <td rowspan="10">2025-06-09</td>
     <td rowspan="5">Windows, Steam</td>
     <td>Chapter Select</td>
     <td><code>bdd3fbeb0f51a7b522ca296092a20853</code></td>
@@ -792,8 +870,34 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>eea2ba07588f2b8555c016ee3978aeef</code></td>
   </tr>
   <tr>
+    <td>v14</td>
+    <td rowspan="5">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>bb0d8728916818b2d7df07d65b9ad356</code></td>
+  </tr>
+  <tr>
+    <td>1.36</td>
+    <td>Chapter 1</td>
+    <td><code>f2efff489fad874e67d29755ccee3253</code></td>
+  </tr>
+  <tr>
+    <td>1.42</td>
+    <td>Chapter 2</td>
+    <td><code>89997c57ab13322440eaba6a2315d8e8</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.089</td>
+    <td>Chapter 3</td>
+    <td><code>45bb868966b0b43b37c58a0417bdf208</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.088</td>
+    <td>Chapter 4</td>
+    <td><code>b44f1d3d5491ee2f606fa4476f4b2c6e</code></td>
+  </tr>
+  <tr>
     <td>v15</td>
-    <td rowspan="5">2025-07-08</td>
+    <td rowspan="10">2025-07-08</td>
     <td rowspan="5">Windows, Steam</td>
     <td>Chapter Select</td>
     <td><code>b5ef0eec9554c491777d6c4e93e0df76</code></td>
@@ -819,8 +923,34 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>5928ccd3f63b2c456d283973c73d158c</code></td>
   </tr>
   <tr>
+    <td>v15</td>
+    <td rowspan="5">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>ae8e99337e2f7186527a8d7e51030f7b</code></td>
+  </tr>
+  <tr>
+    <td>1.37</td>
+    <td>Chapter 1</td>
+    <td><code>47125f204a62d6fd52b13ab2a2c3f330</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 2</td>
+    <td><code>5c8995be3ff084e8855c5612ddaf754f</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.091</td>
+    <td>Chapter 3</td>
+    <td><code>b38f97e8849015729843f82f37037a55</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.090</td>
+    <td>Chapter 4</td>
+    <td><code>28c452a3552921423063045e2f87c29e</code></td>
+  </tr>
+  <tr>
     <td>v16</td>
-    <td rowspan="5">2025-07-23</td>
+    <td rowspan="10">2025-07-23</td>
     <td rowspan="5">Windows, Steam</td>
     <td>Chapter Select</td>
     <td><code>e5a2e12c70c9a73c4bfdfc5fe1f5d62a</code></td>
@@ -846,8 +976,34 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td><code>cdd7f3038a3656f716e41cb575eb4c63</code></td>
   </tr>
   <tr>
+    <td>v16</td>
+    <td rowspan="5">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>864aab2c759290083d387fdb7fa20a1a</code></td>
+  </tr>
+  <tr>
+    <td>1.38</td>
+    <td>Chapter 1</td>
+    <td><code>88a607498471b2cbb47b7a9ccdead6fa</code></td>
+  </tr>
+  <tr>
+    <td>1.44</td>
+    <td>Chapter 2</td>
+    <td><code>de078828b6cdeb43c3b8dfa3b4778792</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.094</td>
+    <td>Chapter 3</td>
+    <td><code>84787ca79bc6395dba65877792c95bb3</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.094</td>
+    <td>Chapter 4</td>
+    <td><code>ad39c2e82f3907aa68f244d8f9bff5c4</code></td>
+  </tr>
+  <tr>
     <td>v17</td>
-    <td rowspan="5">2025-08-05</td>
+    <td rowspan="10">2025-08-05</td>
     <td rowspan="5">Windows, Steam</td>
     <td>Chapter Select</td>
     <td><code>9d1fea9de81219ea7304f32f1ae7a878</code></td>
@@ -874,7 +1030,33 @@ This page contains information about the data files (data.win, data.unx, data.io
   </tr>
   <tr>
     <td>v17</td>
-    <td rowspan="5">2025-08-26</td>
+    <td rowspan="5">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>9bf33da3a130487613fc3e293b4faab8</code></td>
+  </tr>
+  <tr>
+    <td>1.40</td>
+    <td>Chapter 1</td>
+    <td><code>546c47be5e7731cc64dea7b900bf460a</code></td>
+  </tr>
+  <tr>
+    <td>1.46</td>
+    <td>Chapter 2</td>
+    <td><code>6ebc2fb0784c1f55b3823845a2d0b828</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.098</td>
+    <td>Chapter 3</td>
+    <td><code>08bfc3ece7389a8e9d13b0c646032abe</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.098</td>
+    <td>Chapter 4</td>
+    <td><code>57e423e6e4ef682d94b9b05d57a6366d</code></td>
+  </tr>
+  <tr>
+    <td>v17</td>
+    <td rowspan="10">2025-08-26</td>
     <td rowspan="5">Windows, Steam</td>
     <td>Chapter Select</td>
     <td><code>5d3e158dbe6888fbf24471019fbde3c9</code></td>
@@ -898,5 +1080,548 @@ This page contains information about the data files (data.win, data.unx, data.io
     <td>v0.0.100</td>
     <td>Chapter 4</td>
     <td><code>591bf5321c70f17818559b8a50a99a7f</code></td>
+  </tr>
+  <tr>
+    <td>v17</td>
+    <td rowspan="5">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>6ceddd4d85c2e51701adc889e8f3f191</code></td>
+  </tr>
+  <tr>
+    <td>1.41</td>
+    <td>Chapter 1</td>
+    <td><code>aeecb0f49bd167de542ff3db0834e9cc</code></td>
+  </tr>
+  <tr>
+    <td>1.47</td>
+    <td>Chapter 2</td>
+    <td><code>a29fa6d7ccb9487118c5e0210b0fea47</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.099</td>
+    <td>Chapter 3</td>
+    <td><code>40ad0eb61197441c6862c847d8700bcf</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.100</td>
+    <td>Chapter 4</td>
+    <td><code>c1eddbb89f70ecf32770fecff2c36562</code></td>
+  </tr>
+</tbody></table>
+
+## Deltarune Chapter 1-5
+
+<table><thead>
+  <tr>
+    <th>Game version</th>
+    <th>Release date</th>
+    <th>Platform</th>
+    <th>File</th>
+    <th>MD5 checksum</th>
+  </tr></thead>
+<tbody>
+  <tr>
+    <td>v22</td>
+    <td rowspan="12">2026-06-24</td>
+    <td rowspan="6">Windows, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>f3dabe6444829688fd7fbaa68f78794f</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>0ccbfd7c4f9fb1b86de1e2aaec0bacc9</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>9c28c97a88aa59103fe26aae6a289138</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>2907d8acac4d7893d045760e6b08c1ec</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>e400f5941cbaff25d25276b664472968</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.240</td>
+    <td>Chapter 5</td>
+    <td><code>8e205589ce55a0512ff5666a5cba3d55</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="6">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>72a80174b274b86d7e89fb12efb804a7</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>d3991c0e2694e5c902c4bb7b62e79336</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>d20e7d44b1ecc683c690df7c2dac9948</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>933365ebfa0ad542ae524b940371d568</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>0966d4b705fde33d04c947e8d78c73b9</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.240</td>
+    <td>Chapter 5</td>
+    <td><code>684b4c7fc9e1d30be65b3929a96da0dc</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="12">2026-06-25</td>
+    <td rowspan="6">Windows, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>0a448a89c32c802a138621a39ced69db</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>0ccbfd7c4f9fb1b86de1e2aaec0bacc9</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>9c28c97a88aa59103fe26aae6a289138</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>2907d8acac4d7893d045760e6b08c1ec</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>e400f5941cbaff25d25276b664472968</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.241</td>
+    <td>Chapter 5</td>
+    <td><code>0d7f2928089ca15a58f6f3e295ec4599</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="6">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>5367b04241a6a5b441f314d361c5576a</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>d3991c0e2694e5c902c4bb7b62e79336</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>d20e7d44b1ecc683c690df7c2dac9948</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>933365ebfa0ad542ae524b940371d568</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>0966d4b705fde33d04c947e8d78c73b9</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.241</td>
+    <td>Chapter 5</td>
+    <td><code>20335a8f698f1267f7a1058204c1e2f5</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="12">2026-06-27</td>
+    <td rowspan="6">Windows, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>cc76c5efeb1b5fefd1822ceb1340ca10</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>0ccbfd7c4f9fb1b86de1e2aaec0bacc9</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>9c28c97a88aa59103fe26aae6a289138</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>2907d8acac4d7893d045760e6b08c1ec</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>e400f5941cbaff25d25276b664472968</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.242</td>
+    <td>Chapter 5</td>
+    <td><code>2d4cb8198f85c684a3f0b4bf8dbd04e8</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="6">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>04c2a99f9a75c93be9e15b54002b3221</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>d3991c0e2694e5c902c4bb7b62e79336</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>d20e7d44b1ecc683c690df7c2dac9948</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>933365ebfa0ad542ae524b940371d568</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>0966d4b705fde33d04c947e8d78c73b9</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.242</td>
+    <td>Chapter 5</td>
+    <td><code>0f09c1b70db564c611387f5a396186b7</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="12">2026-06-29</td>
+    <td rowspan="6">Windows, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>359adb2db26d7e902f4c26b40e9b58ae</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>0ccbfd7c4f9fb1b86de1e2aaec0bacc9</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>9c28c97a88aa59103fe26aae6a289138</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>2907d8acac4d7893d045760e6b08c1ec</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>e400f5941cbaff25d25276b664472968</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.243</td>
+    <td>Chapter 5</td>
+    <td><code>26d99fdd9852d6859c438a61f6cc6ec8</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="6">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>f1a3a4b72716b1e788c741b97486bd85</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>d3991c0e2694e5c902c4bb7b62e79336</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>d20e7d44b1ecc683c690df7c2dac9948</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>933365ebfa0ad542ae524b940371d568</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>0966d4b705fde33d04c947e8d78c73b9</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.243</td>
+    <td>Chapter 5</td>
+    <td><code>cdd876326e3a292433414524a1ea5651</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="12">2026-07-01</td>
+    <td rowspan="6">Windows, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>ddedbbd10ff129b49c64dbefaa763c6a</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>0ccbfd7c4f9fb1b86de1e2aaec0bacc9</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>9c28c97a88aa59103fe26aae6a289138</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>2907d8acac4d7893d045760e6b08c1ec</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>e400f5941cbaff25d25276b664472968</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.244</td>
+    <td>Chapter 5</td>
+    <td><code>1ebbd5ff9cababc12e8960c08212fe43</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="6">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>d1040a023db8d546b12f40c0ba7454f4</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>d3991c0e2694e5c902c4bb7b62e79336</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>d20e7d44b1ecc683c690df7c2dac9948</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>933365ebfa0ad542ae524b940371d568</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>0966d4b705fde33d04c947e8d78c73b9</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.244</td>
+    <td>Chapter 5</td>
+    <td><code>277ae8019f5ae9c6531943977e5ed37c</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="12">2026-07-09</td>
+    <td rowspan="6">Windows, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>908643b7593b000f5b6c61bb484d086a</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>0ccbfd7c4f9fb1b86de1e2aaec0bacc9</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>9c28c97a88aa59103fe26aae6a289138</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>2907d8acac4d7893d045760e6b08c1ec</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>e400f5941cbaff25d25276b664472968</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.247</td>
+    <td>Chapter 5</td>
+    <td><code>bd5e7d363915ec6b6a3d99fb13fdceff</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="6">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>f9b5972aab5f6f3092d76c1de9c90dc2</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>d3991c0e2694e5c902c4bb7b62e79336</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>d20e7d44b1ecc683c690df7c2dac9948</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>933365ebfa0ad542ae524b940371d568</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 4</td>
+    <td><code>0966d4b705fde33d04c947e8d78c73b9</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.247</td>
+    <td>Chapter 5</td>
+    <td><code>9eaab5aade8b1ed688da240765a1b851</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="12">2026-07-22</td>
+    <td rowspan="6">Windows, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>1f00145d681f830f1249d9493ba8f579</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>0ccbfd7c4f9fb1b86de1e2aaec0bacc9</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>9c28c97a88aa59103fe26aae6a289138</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>2907d8acac4d7893d045760e6b08c1ec</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.108</td>
+    <td>Chapter 4</td>
+    <td><code>12b1db58e1a5e55eda910e9e2e7f6ae8</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.250</td>
+    <td>Chapter 5</td>
+    <td><code>ad76409db119eb742b0831d77442b9a0</code></td>
+  </tr>
+  <tr>
+    <td>v22</td>
+    <td rowspan="6">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>abbbf1438bbd90577bcbf2b2d9ea7912</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>d3991c0e2694e5c902c4bb7b62e79336</code></td>
+  </tr>
+  <tr>
+    <td>1.49</td>
+    <td>Chapter 2</td>
+    <td><code>d20e7d44b1ecc683c690df7c2dac9948</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.103</td>
+    <td>Chapter 3</td>
+    <td><code>933365ebfa0ad542ae524b940371d568</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.108</td>
+    <td>Chapter 4</td>
+    <td><code>c0d66d3edc96ca70ec6aee87c68e5021</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.250</td>
+    <td>Chapter 5</td>
+    <td><code>2cd0d53d5c9eefa0b88cfaad213afd50</code></td>
+  </tr>
+  <tr>
+    <td>v23</td>
+    <td rowspan="12">2026-07-31</td>
+    <td rowspan="6">Windows, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>83a5a14f9b92a20f21fb9ec6c8528469</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>0ccbfd7c4f9fb1b86de1e2aaec0bacc9</code></td>
+  </tr>
+  <tr>
+    <td>1.52</td>
+    <td>Chapter 2</td>
+    <td><code>1592c9bffa2d9e53ddeedc0c4f9a07d6</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 3</td>
+    <td><code>b43158db2e958e767ebb1aae72fb05a1</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.110</td>
+    <td>Chapter 4</td>
+    <td><code>27e36f883f4ade21707dc8261072d416</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.253</td>
+    <td>Chapter 5</td>
+    <td><code>9c80e6300e0548d933cc006f3c22760d</code></td>
+  </tr>
+  <tr>
+    <td>v23</td>
+    <td rowspan="6">macOS, Steam</td>
+    <td>Chapter Select</td>
+    <td><code>0a5814ebc6d4fbef3d2e0250ce45dc6d</code></td>
+  </tr>
+  <tr>
+    <td>1.43</td>
+    <td>Chapter 1</td>
+    <td><code>35743a0b95656b533fb4e2b531572cc4</code></td>
+  </tr>
+  <tr>
+    <td>1.52</td>
+    <td>Chapter 2</td>
+    <td><code>40c2a656226cf3e1c15f7f4b75029d0e</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.105</td>
+    <td>Chapter 3</td>
+    <td><code>593142a7e8250cbafd55921abefcaa4c</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.110</td>
+    <td>Chapter 4</td>
+    <td><code>a99f18729eb4e1dda85c430d1736cb8c</code></td>
+  </tr>
+  <tr>
+    <td>v0.0.253</td>
+    <td>Chapter 5</td>
+    <td><code>45cffaf87dd98170d58c9bf067c94ece</code></td>
   </tr>
 </tbody></table>
